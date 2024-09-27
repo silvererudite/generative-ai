@@ -1,5 +1,5 @@
 # This repo hosts a series of projects, experiments in various areas of generative ai
-___
+
 
 The projects range from being working prototypes of various POCs and also small practical use cases.
 Currently you can find use cases like:
