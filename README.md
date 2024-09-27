@@ -6,7 +6,7 @@ Currently you can find use cases like:
 
 ## Large Language models
 1. [Light weight finetuning of Mistral models](https://github.com/silvererudite/generative-ai/tree/main/Light-weight-finetuning-of-llms)
-2. [In context learning to personalize LLM responses]((https://github.com/silvererudite/generative-ai/tree/main/Personalized_Real_Estate_Agent)
+2. [In context learning to personalize LLM responses](https://github.com/silvererudite/generative-ai/tree/main/Personalized_Real_Estate_Agent)
 3. [Personal real estate agent](https://github.com/silvererudite/generative-ai/tree/main/Personalized_Real_Estate_Agent)
 
 ## Diffusion Models
