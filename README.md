@@ -5,6 +5,7 @@ The projects range from being working prototypes of various POCs and also small 
 Currently you can find use cases like:
 
 ## Large Language models
+1. [Tagging retrieved info in a RAG generated response](https://github.com/silvererudite/generative-ai/blob/main/interpretable_generative_ai/visualize_rag_generated_response.ipynb)
 1. [Light weight finetuning of Mistral models](https://github.com/silvererudite/generative-ai/tree/main/Light-weight-finetuning-of-llms)
 2. [In context learning to personalize LLM responses](https://github.com/silvererudite/generative-ai/tree/main/Personalized_Real_Estate_Agent)
 3. [Personal real estate agent](https://github.com/silvererudite/generative-ai/tree/main/Personalized_Real_Estate_Agent)
